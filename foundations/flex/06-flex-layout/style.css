@@ -46,7 +46,8 @@ a {
   height: 100%;
 }
 
-.header, .footer {
+.header,
+.footer {
   display: flex;
   justify-content: space-between;
   padding: 8px;   
